@@ -1,0 +1,10 @@
+## Interface: 20503
+## Title: TheoRareHunter
+## Notes: Standalone Outland rare spawn pins and rare detection alerts for TBC Classic 2.5.3.
+## Author: Theogreed + ChatGPT
+## Version: 0.2.0
+## SavedVariables: TheoRareHunterSaved
+
+Data.lua
+Core.lua
+MapPins.lua
