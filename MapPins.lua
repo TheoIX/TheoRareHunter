@@ -189,7 +189,7 @@ local function RefreshMinimapPins()
     if range <= 0 then range = 8 end
 
     local radius = (Minimap:GetWidth() or 140) * 0.42
-    local size = 18 * (saved.iconScale or 0.90)
+    local size = 11 * (saved.iconScale or 0.50)
     local alpha = saved.iconAlpha or 0.95
     local count = 0
 
